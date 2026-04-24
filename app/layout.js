@@ -27,7 +27,7 @@ const script = Kaushan_Script({
 });
 
 export const metadata = {
-  title: "Larizo",
+  title: "Abeer",
   description: "Fragrances",
 };
 
