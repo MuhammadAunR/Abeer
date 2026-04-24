@@ -40,7 +40,7 @@ const NavbarDropdown = () => {
             <ul className='flex items-center justify-between px-5 md:px-10 gap-4 lg:gap-10 py-5'>
 
                 <div>
-                    <Link href={'/'} className='font-serif font-bold text-5xl cursor-pointer text-foreground'>Larizo</Link>
+                    <Link href={'/'} className='font-serif font-bold text-5xl cursor-pointer text-foreground'>Abeer</Link>
                 </div>
                 <div className='flex items-center gap-4'>
                     <li onClick={toggleCart} className='hover:text-accent  transition-colors ease-linear cursor-pointer relative'>
