@@ -1,11 +1,11 @@
-# Larizo — Perfume Brand Website
+# Abeer — Perfume Brand Website
 
-A modern, responsive website built for **Larizo**, a real perfume brand based in Pakistan. Developed as a practice project with a live pitch opportunity in mind — if accepted, this becomes a production deployment.
+A modern, responsive website built for **Abeer**, a real perfume brand based in Pakistan. Developed as a practice project with a live pitch opportunity in mind — if accepted, this becomes a production deployment.
 
 ---
 
 ## Live Demo
-🔗 [larizo.vercel.app](https://larizo.vercel.app)
+🔗 [abeer.vercel.app](https://abeer.vercel.app)
 
 ---
 
@@ -40,7 +40,7 @@ A modern, responsive website built for **Larizo**, a real perfume brand based in
 
 This project is built for educational and portfolio purposes.
 All brand assets and product images belong to their respective owners.
-Larizo brand identity is used with creative intent for demonstration only.
+Abeer brand identity is used with creative intent for demonstration only.
 
 ---
 
