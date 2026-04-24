@@ -88,10 +88,10 @@ const FooterSection = () => {
                 viewport={{ once: false }}
                 className='flex items-center justify-center text-accent text-7xl sm:text-8xl md:text-9xl xl:text-[22rem]'
             >
-                {['L', 'A', 'R', 'I', 'Z', 'O'].map(char => (
+                {['A', 'B', 'E', 'E', 'R'].map((char,i) => (
                     <motion.span
                         variants={item}
-                        key={char}
+                        key={i}
                         className='text-center font-bold font-serif'
                     >
                         {char}
@@ -100,7 +100,7 @@ const FooterSection = () => {
             </motion.section>
 
             <div className='w-full bg-foreground rounded-b-2xl text-black text-center py-3 text-sm'>
-                &copy; {new Date().getFullYear()} <span className='font-serif text-lg font-bold'>Larizo</span>. Crafted with passion for timeless fragrances.
+                &copy; {new Date().getFullYear()} <span className='font-serif text-lg font-bold'>Abeer</span>. Crafted with passion for timeless fragrances.
             </div>
         </main>
     )
