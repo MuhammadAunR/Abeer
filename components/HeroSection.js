@@ -15,7 +15,7 @@ const HeroSection = () => {
             </a>
             <div className='w-full h-screen relative'>
                 <Image
-                    src="/larizoHeroSection.webp"
+                    src="/abeerHeroSection.webp"
                     alt="Hero"
                     fill
                     priority
@@ -31,7 +31,7 @@ const HeroSection = () => {
                     transition={{ duration: 0.6 }}
                     viewport={{ once: true }}
                     className='text-7xl md:text-9xl font-bold font-serif'>
-                    Larizo
+                    Abeer
                 </motion.h1>
                 <motion.p
                     initial={{ opacity: 0, y: 30 }}
